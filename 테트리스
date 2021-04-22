@@ -1,0 +1,129 @@
+#include <iostream>
+#include <thread>
+#include <conio.h>
+#include <Windows.h>
+using namespace std;
+
+#define Void 0
+#define Wall 1
+#define FBlock 2
+#define DBlock 3
+#define MapX 12
+#define MapY 20
+
+int iMap[MapX][MapY] = { };
+int iTemp[MapX][MapY] = { };
+
+void gotoxy(int x, int y)
+{
+	COORD pos = { x,y };
+	SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), pos);
+}
+
+void MapDesigner()
+{
+	for (int i = 0; i < MapX; i++)
+	{
+		iMap[i][0] = Wall;
+	}
+	for (int i = 1; i < MapY - 1; i++)
+	{
+		iMap[0][i] = Wall;
+		iMap[MapX - 1][i] = Wall;
+	}
+	for (int i = 0; i < MapX; i++)
+	{
+		iMap[i][MapY - 1] = Wall;
+	}
+}
+
+void MapPrinterN()
+{
+	
+	for (int i = 0; i < MapX; i++)
+	{
+		for (int j = 0; j < MapY; j++)
+		{
+			if (iMap[i][j] != iTemp[i][j])
+			{
+				gotoxy(i, j);
+				printf("%d", iMap[i][j]);
+				iTemp[i][j] = iMap[i][j];
+			}
+		}
+	}
+}
+
+void GravityMaker(int iLevel)
+{
+	for (int i = 1; i < MapX - 1; i++)
+	{
+		for (int j = MapY - 2; j >= 1; j--)
+		{
+			if (iMap[i][j] == FBlock)
+			{
+				if (iMap[i][j + 1] == Wall || iMap[i][j + 1] == DBlock)
+				{
+					iMap[i][j] = DBlock;
+				}
+				else if (iMap[i][j + 1] == Void)
+				{
+					iMap[i][j + 1] = FBlock;
+					iMap[i][j] = Void;
+				}
+			}
+		}
+	}
+	Sleep(iLevel);
+}
+
+void BlockMover(char c)
+{
+	if (c == 'f')
+	{
+
+	}
+	else if (c == 'a')
+	{
+		for (int i = 1; i < MapX - 1; i++)
+		{
+			for (int j = MapY - 2; j >= 1; j--)
+			{
+				if (iMap[i][j] == FBlock)
+				{
+					iMap[i - 1][j] = FBlock;
+					iMap[i][j] = Void;
+				}
+			}
+		}
+	}
+	else if (c == 'd')
+	{
+		for (int i = MapX - 2; i >= 1; i--)
+		{
+			for (int j = MapY - 2; j >= 1; j--)
+			{
+				if (iMap[i][j] == FBlock)
+				{
+					iMap[i + 1][j] = FBlock;
+					iMap[i][j] = Void;
+				}
+			}
+		}
+	}
+}
+
+int main()
+{
+	MapDesigner();
+	iMap[5][1] = FBlock;
+	while (true)
+	{
+		GravityMaker(200);
+		MapPrinterN();
+		if (_kbhit())
+		{
+			BlockMover(_getch());
+		}
+	}
+}
