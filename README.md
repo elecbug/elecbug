@@ -6,3 +6,7 @@
 ![Dev-EB's github stats](https://github-readme-stats.vercel.app/api?username=Dev-EB&theme=tokyonight)
 
 ![EB3-export](https://user-images.githubusercontent.com/81972855/124474558-a02fde00-dddb-11eb-928f-e2be9794fc4c.gif)
+![EB3-export](https://user-images.githubusercontent.com/81972855/124474558-a02fde00-dddb-11eb-928f-e2be9794fc4c.gif)
+![EB3-export](https://user-images.githubusercontent.com/81972855/124474558-a02fde00-dddb-11eb-928f-e2be9794fc4c.gif)
+![EB3-export](https://user-images.githubusercontent.com/81972855/124474558-a02fde00-dddb-11eb-928f-e2be9794fc4c.gif)
+![EB3-export](https://user-images.githubusercontent.com/81972855/124474558-a02fde00-dddb-11eb-928f-e2be9794fc4c.gif)
