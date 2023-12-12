@@ -6,7 +6,5 @@
 ## About Github
 | Most Langs | Git Stats |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elecbug&theme=tokyonight&layout=compact&langs_count=6) | ![elecbug's github stats](https://github-readme-stats.vercel.app/api?username=elecbug&theme=tokyonight&count_private=true&show_icons=true) |
-
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elecbug)](https://github.com/anuraghazra/github-readme-stats)
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elecbug&theme=tokyonight&layout=compact&langs_count=6&hide=makefile,cmake) | ![elecbug's github stats](https://github-readme-stats.vercel.app/api?username=elecbug&theme=tokyonight&count_private=true&show_icons=true) |
 
