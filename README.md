@@ -1,7 +1,7 @@
 # Hello, world!
 
 ## About Me
-- I am a student in the 3rd year of the Department of Computer Science and Engineering at [Keimyung University](https://www.kmu.ac.kr/).
+- I am a student in the 4th year of the Department of Computer Science and Engineering at [Keimyung University](https://www.kmu.ac.kr/).
 
 ## About Github
 | Most Langs | Git Stats |
