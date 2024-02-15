@@ -64,7 +64,7 @@
             Programming<br>Language
         </td>
         <td align="left">
-            C, C++, Java, C#, Rust, <i>Python, Dart</i>
+            C, C++, Java, C#, Rust, Python, Dart
         </td>
     </tr>
     <tr>
