@@ -86,7 +86,7 @@
             Tool
         </td>
         <td align="left">
-            Git(+hub), Docker, WSL
+            Git(+hub), Docker, WSL, MySQL
         </td>
     </tr>
     <tr>
