@@ -52,10 +52,10 @@
 
 <table>
     <tr>
-        <th align="right">
+        <th align="center">
             Type
         </th>
-        <th align="left">
+        <th align="center">
             Skill
         </th>
     </tr>
