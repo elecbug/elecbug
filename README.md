@@ -31,17 +31,9 @@
 
 <h2 align="left">Projects</h2>
         
-<table>
-    <tr>
-        <th>
-            <a ref="https://github.com/elecbug/PDF" align="center">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=elecbug&repo=PDF&theme=dracula&icon_color=3f3fff&title_color=ffffff&bg_color=1f1f1f" alt="repo">
-            </a>
-        </th>
-        <th>
-            <a ref="https://github.com/elecbug/Monitoring" align="center">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=elecbug&repo=Monitoring&theme=dracula&icon_color=3f3fff&title_color=ffffff&bg_color=1f1f1f" alt="repo">
-            </a>
-        </th>
-    </tr>
-</table>
+<a ref="https://github.com/elecbug/PDF" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elecbug&repo=PDF&theme=dracula&icon_color=3f3fff&title_color=ffffff&bg_color=1f1f1f" alt="repo">
+</a>
+<a ref="https://github.com/elecbug/Monitoring" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=elecbug&repo=Monitoring&theme=dracula&icon_color=3f3fff&title_color=ffffff&bg_color=1f1f1f" alt="repo">
+</a>
