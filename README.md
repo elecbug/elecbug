@@ -34,10 +34,10 @@
 <table>
     <tr>
         <th>
-            <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=elecbug&repo=PDF&theme=dracula&icon_color=3f3fff&title_color=ffffff&bg_color=1f1f1f"><p>
+            <a ref="https://github.com/elecbug/PDF" align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=elecbug&repo=PDF&theme=dracula&icon_color=3f3fff&title_color=ffffff&bg_color=1f1f1f"><a>
         </th>
         <th>
-            <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=elecbug&repo=Monitoring&theme=dracula&icon_color=3f3fff&title_color=ffffff&bg_color=1f1f1f"><p>
+            <a ref="https://github.com/elecbug/Monitoring" align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=elecbug&repo=Monitoring&theme=dracula&icon_color=3f3fff&title_color=ffffff&bg_color=1f1f1f"><a>
         </th>
     </tr>
 </table>
