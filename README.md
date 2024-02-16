@@ -5,7 +5,7 @@
 
 <h2 align="left">Profile</h2>
 
-<p align="justify">
+<p align="left">
     I am a student in the 4th year of the Department of Computer Science and Engineering at 
     <a href="https://www.kmu.ac.kr/"> Keimyung University</a>.
 </p>
