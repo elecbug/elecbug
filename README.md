@@ -75,7 +75,7 @@
         <td align="left">
             - C { pthread }<br>
             - C++ { STL }<br>
-            - Java { <i>Android</i> }<br>
+            - Java <i>{ Android }</i><br>
             - C# { WinForm, WPF, Microsoft Office Interop, Socket, Json }<br>
             - Rust { tokio, libp2p }<br>
             - <i>Python { tensorflow, numpy, and ML others... } </i><br>
