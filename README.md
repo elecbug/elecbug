@@ -73,9 +73,10 @@
             Framework
         </td>
         <td align="left">
-            - C { pthread }</br>
+            - C { pthread }<br>
             - C++ { STL }<br>
-            - C# { WinForm, WPF, Microsoft Interop, Socket, Json }<br>
+            - Java { <i>Android</i> }<br>
+            - C# { WinForm, WPF, Microsoft Office Interop, Socket, Json }<br>
             - Rust { tokio, libp2p }<br>
             - <i>Python { tensorflow, numpy, and ML others... } </i><br>
             - <i>Dart { flutter }</i>
