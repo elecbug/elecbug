@@ -1,14 +1,10 @@
-<h1> Hello world!</h1>
-
+# Hello world!
 > I am elecbug
 >
 
-<h2 align="left">Profile</h2>
+## Profile
 
-<p align="left">
-    I am a student in the 4th year of the Department of Computer Science and Engineering at 
-    <a href="https://www.kmu.ac.kr/"> Keimyung University</a>.
-</p>
+I am a student in the 4th year of the Department of Computer Science and Engineering at [Keimyung University](https://www.kmu.ac.kr/)
 
 <table>
     <tr>
@@ -29,7 +25,7 @@
     </tr>
 </table>
 
-<h2 align="left">Projects</h2>
+## Projects
 
 <table>
     <tr>
@@ -46,7 +42,7 @@
     </tr>
 </table>
 
-<h2 align="left">Tech Stacks</h2>
+## Tech Stacks
 
 > *Italic writing* is a skill that is lacking compared to other technologies
 
@@ -64,7 +60,7 @@
             Programming<br>Language
         </td>
         <td align="left">
-            C, C++, Java, C#, Rust, Python, Dart
+            C, C++, Java, C#, Rust, Python, Dart, <i>JavaScript</i>
         </td>
     </tr>
     <tr>
@@ -76,10 +72,11 @@
             - C { pthread }<br>
             - C++ { STL }<br>
             - Java <i>{ Android }</i><br>
-            - C# { WinForm, WPF, Microsoft Office Interop, Socket, Json }<br>
+            - C# { WinForm, WPF, Microsoft Office Interop, Socket, MySQL }<br>
             - Rust { tokio, libp2p }<br>
             - <i>Python { tensorflow, numpy, and ML others... } </i><br>
-            - <i>Dart { flutter }</i>
+            - <i>Dart { flutter }</i><br>
+            - <i>JavaScrict { Node.js }</i>
         </td>
     </tr>
     <tr>
@@ -103,15 +100,7 @@
             OS
         </td>
         <td align="left">
-            Windows 10, Ubuntu(+kernel)
-        </td>
-    </tr>
-    <tr>
-        <td align="right">
-            Other
-        </td>
-        <td align="left">
-            Asynchronous and Parallel Programming
+            Windows 10, Ubuntu(+kernel(WSL))
         </td>
     </tr>
 </table>
