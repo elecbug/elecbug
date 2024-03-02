@@ -60,7 +60,7 @@ I am a student in the 4th year of the Department of Computer Science and Enginee
             Programming<br>Language
         </td>
         <td align="left">
-            C, C++, Java, C#, Rust, Python, Dart, <i>JavaScript</i>
+            C, C++, Java, C#, Rust, Python, Dart, JavaScript
         </td>
     </tr>
     <tr>
@@ -73,7 +73,7 @@ I am a student in the 4th year of the Department of Computer Science and Enginee
             - C++ { STL }<br>
             - Java <i>{ Android }</i><br>
             - C# { WinForm, WPF, Microsoft Office Interop, Socket, MySQL }<br>
-            - Rust { tokio, libp2p }<br>
+            - Rust { tokio, libp2p, actix }<br>
             - <i>Python { tensorflow, numpy, and ML others... } </i><br>
             - <i>Dart { flutter }</i><br>
             - <i>JavaScrict { Node.js }</i>
