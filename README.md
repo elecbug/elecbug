@@ -84,7 +84,7 @@ I am a student in the 4th year of the Department of Computer Science and Enginee
             Tool
         </td>
         <td align="left">
-            Git(+hub), Docker, WSL, MySQL
+            Git(+Hub), Docker, WSL, MySQL
         </td>
     </tr>
     <tr>
