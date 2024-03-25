@@ -76,7 +76,7 @@ I am a student in the 4th year of the Department of Computer Science and Enginee
             - Rust { tokio, libp2p, actix }<br>
             - <i>Python { tensorflow, numpy, and ML others... } </i><br>
             - <i>Dart { flutter }</i><br>
-            - <i>JavaScrict { Node.js }</i>
+            - <i>JavaScript { Node.js }</i>
         </td>
     </tr>
     <tr>
