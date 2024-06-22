@@ -15,8 +15,8 @@ And in now, I have joined the [Computer Network Lab](http://www.comnet.kmu.ac.kr
 ## Projects
 | | |
 |-|-|
-|![](https://github-readme-stats.vercel.app/api/pin/?username=elecbug&repo=PDF&theme=dracula&icon_color=3f3fff&title_color=ffffff&bg_color=1f1f1f)|![](https://github-readme-stats.vercel.app/api/pin/?username=elecbug&repo=Monitoring&theme=dracula&icon_color=3f3fff&title_color=ffffff&bg_color=1f1f1f)|
-|![](https://github-readme-stats.vercel.app/api/pin/?username=elecbug&repo=Perceptron&theme=dracula&icon_color=3f3fff&title_color=ffffff&bg_color=1f1f1f)||
+|[![](https://github-readme-stats.vercel.app/api/pin/?username=elecbug&repo=PDF&theme=dracula&icon_color=3f3fff&title_color=ffffff&bg_color=1f1f1f)](https://github.com/elecbug/PDF)|[![](https://github-readme-stats.vercel.app/api/pin/?username=elecbug&repo=Monitoring&theme=dracula&icon_color=3f3fff&title_color=ffffff&bg_color=1f1f1f)](https://github.com/elecbug/Monitoring)|
+|[![](https://github-readme-stats.vercel.app/api/pin/?username=elecbug&repo=Perceptron&theme=dracula&icon_color=3f3fff&title_color=ffffff&bg_color=1f1f1f)](https://github.com/elecbug/Perceptron)||
 
 ## Tech Stacks
 
