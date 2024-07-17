@@ -24,8 +24,8 @@ And in now, I have joined the [Computer Network Lab](http://comnet.kmu.ac.kr) in
 
 |Type|Skill|
 |----|-----|
-|Programming Languages|C, C++, Java, C#, Rust, Python, Dart, JavaScript|
-|Library and Framework|- C { pthread }<br>- C++ { STL }<br>- Java <i>{ Android }</i><br>- C# { WinForm, WPF, Microsoft Office Interop, Socket, MySQL }<br>- Rust { tokio, libp2p }<br>- <i>Python { tensorflow, numpy, and ML others... } </i><br>- <i>Dart { flutter }</i><br>- <i>JavaScrict { Node.js }</i>|
+|Programming Languages|C, C++, Java, C#, Rust, Python, Dart, JavaScript, Go|
+|Library and Framework|- C { pthread }<br>- C++ { STL }<br>- Java <i>{ Android }</i><br>- C# { WinForm, WPF, Microsoft Office Interop, Socket, MySQL }<br>- Rust { tokio, libp2p }<br>- <i>Python { tensorflow, numpy, and ML others... } </i><br>- <i>Dart { flutter }</i><br>- <i>JavaScrict { Node.js }</i><br>- Go { libp2p }|
 |Tool|Git(+hub), Docker, WSL, MySQL|
 |IDE|Visual Studio, VS Code, eclipse, Google Colab|
 |OS|Windows 10, Ubuntu(+kernel(WSL))|
