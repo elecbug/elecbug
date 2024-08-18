@@ -22,7 +22,7 @@ And in now, I have joined the [Computer Network Lab](http://comnet.kmu.ac.kr) in
 |C#|WinForm, WPF, Maui|MS Office Interop|✅|✅|✅|
 |Rust||tokio, actix, axum, libp2p|✅|✅||
 |Go||libp2p|✅|✅||
-|Python||Tensorflow, numpy|||✅|
+|Python||Tensorflow, Pytorch, numpy|||✅|
 |Dart|flutter||||
 
 ## Projects
