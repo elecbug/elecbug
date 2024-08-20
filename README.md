@@ -25,6 +25,8 @@ And in now, I have joined the [Computer Network Lab](http://comnet.kmu.ac.kr) in
 |Python||Tensorflow, Pytorch, numpy|||✅|
 |Dart|flutter||||
 
+And I can use linux, docker..
+
 ## Projects
 
 |App|SDK|
