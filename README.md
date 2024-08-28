@@ -19,13 +19,17 @@ And in now, I have joined the [Computer Network Lab](http://comnet.kmu.ac.kr) in
 |C|||✅|||
 |C++||STL||||
 |Java|Android||✅||||
-|C#|WinForm, WPF, Maui|MS Office Interop|✅|✅|✅|
+|C#|WinForm, WPF, Maui|MS Office Interop, OpenSSL|✅|✅|✅|
 |Rust||tokio, actix, axum, libp2p|✅|✅||
 |Go||libp2p|✅|✅||
 |Python||Tensorflow, Pytorch, numpy|||✅|
 |Dart|flutter||||
 
-And I can use linux, docker..
+## I Used
+
+|OS|Monitoring|DB|Virtualization|
+|--|----------|--|--------------|
+|Linux(Ubuntu)|Prometheus, Grafana|mySQL|Docker|
 
 ## Projects
 
