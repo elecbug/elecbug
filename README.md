@@ -27,9 +27,9 @@ And in now, I have joined the [Computer Network Lab](http://comnet.kmu.ac.kr) in
 
 ## I Used
 
-|OS|Monitoring|DB|Virtualization|
-|--|----------|--|--------------|
-|Linux(Ubuntu)|Prometheus, Grafana|mySQL|Docker|
+|OS|Monitoring|DB|Virtualization|CI/CD|
+|--|----------|--|--------------|-----|
+|Linux(Ubuntu)|Prometheus, Grafana|mySQL|Docker|Github Workflow|
 
 ## Projects
 
