@@ -6,7 +6,7 @@
 
 I am a student in the 4th year of the Department of Computer Science and Engineering at [Keimyung University](https://www.kmu.ac.kr/).
 
-And in now, I have joined the [Computer Network Lab](http://comnet.kmu.ac.kr) in KMU when from Apr, 2023.
+And in now, I have joined the [Computer Network Lab](https://sites.google.com/site/computernetworklab/) in KMU when from Apr, 2023.
 
 |Most Languages|GitHub Stats|
 |--------------|------------|
