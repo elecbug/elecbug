@@ -48,12 +48,12 @@ My detailed major is computer network analysis and research.
 - I have created a scalable service using docker service.
 
 ### C/C++
-- It's the first language I learned, and I can develop a simple program.
+- This is the first language I learned, and I can develop a simple program.
 
 ### Java
 - I learned Swing in college, and I've approached it with Android development and Minecraft mode development.
 - But, I don't prefer development with Java.
 
 ### Dart
-- I learned it when I was undergraduate.
+- I learned this when I was undergraduate.
 - I stopped the learning because furious from using early flutter.
