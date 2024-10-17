@@ -8,25 +8,52 @@ I am a student in the 4th year of the Department of Computer Science and Enginee
 
 And in now, I have joined the [Computer Network Lab](https://sites.google.com/site/computernetworklab/) in KMU when from Apr, 2023.
 
+My detailed major is computer network analysis and research.
+
 |Most Languages|GitHub Stats|
 |--------------|------------|
 |![](https://github-readme-stats.vercel.app/api/top-langs/?username=elecbug&layout=compact&langs_count=8&hide=makefile,cmake&theme=dracula&icon_color=3f3fff&title_color=ffffff&bg_color=1f1f1f)|![](https://github-readme-stats.vercel.app/api?username=elecbug&count_private=true&show_icons=true&rank_icon=github&theme=dracula&icon_color=3f3fff&title_color=ffffff&include_all_commits=true&bg_color=1f1f1f)|
 
 ## Tech Stacks
 
-|Languages|Framework|Library|Thread|Network|DB|
-|---------|---------|-------|------|-------|--|
-|C|||✅|||
-|C++||STL||||
-|Java|Android||✅||||
-|C#|WinForm, WPF, Maui|MS Office Interop, OpenSSL|✅|✅|✅|
-|Rust||tokio, actix, axum, libp2p|✅|✅||
-|Go||libp2p|✅|✅||
-|Python||Tensorflow, Pytorch, numpy|||✅|
-|Dart|flutter||||
+### C#
+- It's one of the languages that I deal with as the main language.
+- It is a language that has learned how to apply and deal with several programming concepts and techniques.
+- I mainly develop desktop apps for Windows such as WinForm and WPF.
+- Recently, I've used MAUI.
+- I has developed a work assistant application through MS Office Interop.
 
-## I Used
+### Rust/Go
+- As a system programming language, I has recently studied with interest.
+- I love Rust's philosophy and the asynchronous processing of the Go language.
+- I'm mainly using it for the libp2p community.
 
-|OS|Monitoring|DB|Virtualization|CI/CD|
-|--|----------|--|--------------|-----|
-|Linux(Ubuntu)|Prometheus, Grafana|mySQL|Docker|Github Workflow|
+### Python
+- I have used this for data analysis and deep-learning.
+- I don't handle this well, but I often produce scripts for data analysis.
+
+### Linux
+- I am familiar with the Linux environment and I can use the CLI.
+- I understand the difference between Windows and Linux.
+
+### Monitoring
+- I tried using the Metrics library and Prometheus and Grafana.
+
+### DB
+- I can write SQL script.
+- I mainly prefer mySQL.
+
+### Docker
+- I have a conceptual understanding of docker technology.
+- I have created a scalable service using docker service.
+
+### C/C++
+- It's the first language I learned, and I can develop a simple program.
+
+### Java
+- I learned Swing in college, and I've approached it with Android development and Minecraft mode development.
+- But, I don't prefer development with Java.
+
+### Dart
+- I learned it when I was undergraduate.
+- I stopped the learning because furious from using early flutter.
