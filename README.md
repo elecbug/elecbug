@@ -36,16 +36,16 @@ My detailed major is computer network analysis and research.
 - I am familiar with the Linux environment and I can use the CLI.
 - I understand the difference between Windows and Linux.
 
-### Monitoring
-- I tried using the Metrics library and Prometheus and Grafana.
+### Docker
+- I have a conceptual understanding of docker technology.
+- I have created a scalable service using docker service.
 
 ### DB
 - I can write SQL script.
 - I mainly prefer mySQL.
 
-### Docker
-- I have a conceptual understanding of docker technology.
-- I have created a scalable service using docker service.
+### Monitoring
+- I tried using the Metrics library and Prometheus and Grafana.
 
 ### C/C++
 - This is the first language I learned, and I can develop a simple program.
