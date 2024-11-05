@@ -17,48 +17,31 @@ My detailed major is computer network analysis and research.
 <details>
 <summary>My Skill</summary>
 <pre>
-
-### C#
-- It's one of the languages that I deal with as the main language.
-- It is a language that has learned how to apply and deal with several programming concepts and techniques.
-- I mainly develop desktop apps for Windows such as WinForm and WPF.
-- Recently, I've used MAUI.
-- I has developed a work assistant application through MS Office Interop.
-
-### Rust/Go
-- As a system programming language, I has recently studied with interest.
-- I love Rust's philosophy and the asynchronous processing of the Go language.
-- I'm mainly using it for the libp2p community.
-
-### Python
-- I have used this for data analysis and deep-learning.
-- I don't handle this well, but I often produce scripts for data analysis.
-
-### Linux
-- I am familiar with the Linux environment and I can use the CLI.
-- I understand the difference between Windows and Linux.
-
-### Docker
-- I have a conceptual understanding of docker technology.
-- I have created a scalable service using docker service.
-
-### DB
-- I can write SQL script.
-- I mainly prefer mySQL.
-
-### Monitoring
-- I tried using the Metrics library and Prometheus and Grafana.
-
-### C/C++
-- This is the first language I learned, and I can develop a simple program.
-
-### Java
-- I learned Swing in college, and I've approached it with Android development and Minecraft mode development.
-- But, I don't prefer development with Java.
-
-### Dart
-- I learned this when I was undergraduate.
-- I stopped the learning because furious from using early flutter.
-
+0. Network
+  - General OSI-7 Knowledge
+  - P2P
+  - Block-chain
+  - Network Communication Security
+1. C#
+  - WinForm/WPF/MAUI
+  - MS Office Interop
+2. Rust/Go
+  - [libp2p](https://libp2p.io)
+  - Go-routine
+  - tokio-rs
+3. Python
+  - scipy/numpy/networkx/pyplot...
+4. Linux
+  - CLI
+5. Docker
+  - General Container
+  - Docker Swarm Network and Clustering
+  - Scalabe Service
+6. DB
+  - MySQL
+7. etc
+  - C/C++
+  - Java
+  - Dart/Flutter
 </pre>
 </details>
