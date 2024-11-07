@@ -16,32 +16,32 @@ My detailed major is computer network analysis and research.
 
 <details>
 <summary>My Skill</summary>
-<pre>
-0. Network
+  
+  ### 0. Network
   - General OSI-7 Knowledge
   - P2P
   - Block-chain
   - Network Communication Security
-1. C#
+  ### 1. C#
   - WinForm/WPF/MAUI
   - MS Office Interop
-2. Rust/Go
+  ### 2. Rust/Go
   - [libp2p](https://libp2p.io)
   - Go-routine
   - tokio-rs
-3. Python
+  ### 3. Python
   - scipy/numpy/networkx/pyplot...
-4. Linux
+  ### 4. Linux
   - CLI
-5. Docker
+  ### 5. Docker
   - General Container
   - Docker Swarm Network and Clustering
   - Scalabe Service
-6. DB
+  ### 6. DB
   - MySQL
-7. etc
+  ### 7. etc
   - C/C++
   - Java
   - Dart/Flutter
-</pre>
+
 </details>
