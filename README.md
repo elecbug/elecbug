@@ -21,18 +21,15 @@ My detailed major is computer network analysis and research.
   - General OSI-7 Knowledge
   - P2P
   - Block-chain
-  - Network Communication Security
+  - Basic Network Security
   ### 1. C#
   - WinForm/WPF/MAUI
   - MS Office Interop
   ### 2. Rust/Go
   - [libp2p](https://libp2p.io)
-  - Go-routine
-  - tokio-rs
   ### 3. Python
   - scipy/numpy/networkx/pyplot...
   ### 4. Linux
-  - CLI
   ### 5. Docker
   - General Container
   - Docker Swarm Network and Clustering
