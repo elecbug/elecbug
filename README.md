@@ -28,12 +28,12 @@ My detailed major is computer network analysis and research.
   ### 2. Rust/Go
   - [libp2p](https://libp2p.io)
   ### 3. Python
-  - scipy/numpy/networkx/pyplot...
+  - Calculate and Analysis - scipy/numpy/networkx/pyplot...
+  - A little of AI
   ### 4. Linux
   ### 5. Docker
-  - General Container
+  - General Container and Service
   - Docker Swarm Network and Clustering
-  - Scalabe Service
   ### 6. DB
   - MySQL
   ### 7. etc
