@@ -12,7 +12,7 @@ My detailed major is computer network analysis and research.
 
 |Most Languages|GitHub Stats|
 |--------------|------------|
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=elecbug&layout=compact&langs_count=8&hide=makefile,cmake&theme=dracula&icon_color=3f3fff&title_color=ffffff&bg_color=1f1f1f)|![](https://github-readme-stats.vercel.app/api?username=elecbug&count_private=true&show_icons=true&rank_icon=github&theme=dracula&icon_color=3f3fff&title_color=ffffff&include_all_commits=true&bg_color=1f1f1f)|
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=elecbug&layout=compact&langs_count=8&hide=makefile,cmake&theme=dracula&title_color=ffffff&bg_color=1f1f1f)|![](https://github-readme-stats.vercel.app/api?username=elecbug&count_private=true&show_icons=true&rank_icon=github&theme=dracula&icon_color=ffffff&title_color=ffffff&include_all_commits=true&bg_color=1f1f1f)|
 
 <details>
 <summary>My Skill</summary>
