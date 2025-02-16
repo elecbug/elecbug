@@ -11,7 +11,7 @@
 
 |Most Languages|GitHub Stats|
 |--------------|------------|
-|![](https://github-readme-stats.vercel.app/api/top-langs/?username=elecbug&layout=compact&langs_count=8&hide=makefile,cmake&theme=dracula)|![](https://github-readme-stats.vercel.app/api?username=elecbug&count_private=true&show_icons=true&rank_icon=github&theme=dracula&include_all_commits=true)|
+|![](https://github-readme-stats.vercel.app/api/top-langs/?username=elecbug&layout=compact&langs_count=8&hide=makefile,cmake&theme=dark)|![](https://github-readme-stats.vercel.app/api?username=elecbug&count_private=true&show_icons=true&rank_icon=github&theme=dark&include_all_commits=true)|
 
 <details>
 <summary>My Skill</summary>
