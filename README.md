@@ -13,6 +13,8 @@
 |--------------|------------|
 |![](https://github-readme-stats.vercel.app/api/top-langs/?username=elecbug&layout=compact&langs_count=8&hide=makefile,cmake&theme=dark)|![](https://github-readme-stats.vercel.app/api?username=elecbug&count_private=true&show_icons=true&rank_icon=github&theme=dark&include_all_commits=true)|
 
+[More Bio](./OTHER.md)
+
 <details>
 <summary>My Skill</summary>
   
