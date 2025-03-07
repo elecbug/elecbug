@@ -14,7 +14,7 @@
 |![](https://github-readme-stats.vercel.app/api/top-langs/?username=elecbug&layout=compact&langs_count=8&hide=makefile,cmake&theme=dark)|![](https://github-readme-stats.vercel.app/api?username=elecbug&count_private=true&show_icons=true&rank_icon=github&theme=dark&include_all_commits=true)|
 
 <details>
-  <summary><h2>More Bio</h2></summary>
+  <summary>More Bio</summary>
 
   ### 수상
 
@@ -52,7 +52,7 @@
 </details>
 
 <details>
-  <summary><h2>My Skill</h2></summary>
+  <summary>My Skill</summary>
   
   ### 0. Computer Network
   - General OSI-7/Network security knowledge
