@@ -13,8 +13,9 @@
 |--------------|------------|
 |![](https://github-readme-stats.vercel.app/api/top-langs/?username=elecbug&layout=compact&langs_count=8&hide=makefile,cmake&theme=dark)|![](https://github-readme-stats.vercel.app/api?username=elecbug&count_private=true&show_icons=true&rank_icon=github&theme=dark&include_all_commits=true)|
 
-## Tech Skill
+![](https://github-profile-trophy.vercel.app/?username=elecbug&theme=onestar&no-frame=true&no-bg=true&column=5&margin-w=15&margin-h=15)
 
+## Tech Skill
 
 <details>
   <summary>Show</summary>
