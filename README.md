@@ -71,10 +71,10 @@
 <details>
 <summary>Show</summary>
 
-|Organization|Major|Date|Description|
-|------------|-----|----|-----------|
-|Keimyung University|Computer Engineering    |2021. 03. ~ 2025. 02.|Graduation(B.S.)|
-|Keimyung University|Computer System(Network)|2025. 03. ~ now      |In course(M.S.) |
+|Organization|Major|Degree|Date|
+|------------|-----|------|----|
+|Keimyung University|Computer Engineering    |Graduation(B.S.)|2021. 03. ~ 2025. 02.|
+|Keimyung University|Computer System(Network)|In course(M.S.) |2025. 03. ~ now      |
 
 </details>
 
@@ -83,8 +83,8 @@
 <details>
 <summary>Show</summary>
 
-|Organization|License|Major|Date|
-|------------|-------|-----|----|
+|Organization|License|Branch|Date|
+|------------|-------|------|----|
 |HRDK                        |Craftsman                            |Electricity           |2018. 12. 14.|
 |HRDK                        |Craftsman                            |Elevator              |2019. 06. 21.|
 |Ministry of Education, Korea|Secondary School Full Teacher(Tier 2)|Information & Computer|2025. 02. 18.|
@@ -106,11 +106,11 @@
 <details>
 <summary>Show</summary>
 
-|Organization|Date|Tournament|Award|
-|------------|----|----------|-----|
-|Keimyung University|2022. 08. 22.|창의 IT 경진대회|프로그램 해커톤-우수상|
-|Keimyung University|2024. 09. 09.|인공지능 소프트웨어 경진대회|인공지능 프로그램-대상|
-|Keimyung University|2024. 12. 06.|창립 125주년 기념 대학생 에세이 대회|자연공학분야-우수상|
+|Organization|Tournament|Award|Date|
+|------------|----------|-----|----|
+|Keimyung University|창의 IT 경진대회|프로그램 해커톤-우수상|2022. 08. 22.|
+|Keimyung University|인공지능 소프트웨어 경진대회|인공지능 프로그램-대상|2024. 09. 09.|
+|Keimyung University|창립 125주년 기념 대학생 에세이 대회|자연공학분야-우수상|2024. 12. 06.|
 
 </details>
 
