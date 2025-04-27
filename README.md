@@ -59,7 +59,8 @@
 <details>
 <summary>Show</summary>
 
-- **Docker Korea Translation Project** - Maintainer of [docker-ko.github.io](https://github.com/docker-ko/docker-ko.github.io), translating Docker official documentation into Korean to support local developers
+- **Docker Korea Translation Project**
+  - Maintainer of [docker-ko.github.io](https://github.com/docker-ko/docker-ko.github.io), translating Docker official documentation into Korean to support local developers
 
 </details>
 
