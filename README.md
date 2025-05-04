@@ -4,9 +4,10 @@
 
 ## Profile
 
-> Computer network Researcher and Developer (P2P/Blockchain) | M.S. Candidate, Computer Systems (Network) at Keimyung University
+> Computer network Researcher and Developer (P2P/Blockchain)  
+> M.S. Candidate, Computer Systems (Network) at [Keimyung University](https://www.kmu.ac.kr)
 
-- C#, Go, Rust in-depth experience - etc
+- C#, Go, Rust and Network/System Programming in-depth experience
 - M.S. course in Department of Computer Engineering, [Keimyung University Computer Network Lab](https://sites.google.com/site/computernetworklab/) (Mar. 2025 - Present)
 
 |Most Languages|GitHub Stats|
