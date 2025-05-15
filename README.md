@@ -40,6 +40,7 @@
 - P2P
 - Blockchain
 - [libp2p](https://libp2p.io) application
+  - Kademlia and GossipSub Technology
 
 ### 4. Data Analysis & AI
 
