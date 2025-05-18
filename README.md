@@ -32,27 +32,35 @@
 
 - WinForm / WPF / MAUI (C#)
 - MS Office Interop (C#)
-- Go-routine (Go)
 
 ### 3. Networking
 
-- General OSI-7 / Network security knowledge
+- General OSI-7 knowledge
+- Network security
 - P2P
 - Blockchain
 - [libp2p](https://libp2p.io) application
-  - Kademlia and GossipSub Technology
+  - Kademlia
+  - GossipSub
 
 ### 4. Data Analysis & AI
 
-- scipy / numpy / pyplot / networkx
+- Data analysis libs
+  - scipy / numpy / pyplot / networkx
 - Introductory AI skills
 
 ### 5. DevOps & Infrastructure
 
 - Basic Linux skills
-- Makefile / Shell scripting
-- Docker: containerization, custom images, swarm clustering
-- MySQL (Database)
+- Scripting
+  - Shell script
+  - Makefile
+- Docker
+  - Containerization
+  - Custom images
+  - Swarm clustering
+- DB 
+  - MySQL
 
 </details>
 
