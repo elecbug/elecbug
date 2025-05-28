@@ -99,13 +99,17 @@
 
 </details>
 
-## Paper
+## Publication
 
 <details>
 <summary>Show</summary>
 
+### Journal
 - [이성욱 and 주홍택, *"K-P2PLab: P2P 네트워크 토폴로지 분석을 위한 테스트베드 및 분석 플랫폼 개발,"* KNOM Review, Vol. 27, No. 2, pp. 40–48, Dec. 2024. doi:10.22670/knom.2024.27.2.40(KCI)](https://doi.org/10.22670/knom.2024.27.2.40)
-- 이성욱, 김형엽, 김승민 and 주홍택, "GossipSub Protocol 기반 P2P 네트워크에서 통신 지연시간이 브로드캐스트 효율성에 미치는 영향분석," KNOM Conference 2025, pp. 12-16, Apr. 2025.
+
+### Conference
+- 이성욱, 김형엽, 김승민 and 주홍택, *"GossipSub Protocol 기반 P2P 네트워크에서 통신 지연시간이 브로드캐스트 효율성에 미치는 영향분석,"* KNOM Conference 2025, pp. 12-16, Apr. 2025.
+
 </details>
 
 ## Award
