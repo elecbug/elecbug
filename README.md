@@ -7,7 +7,7 @@
 > Computer network Researcher and Developer (P2P/Blockchain)  
 > M.S. Candidate, Computer Systems (Network) at [Keimyung University](https://www.kmu.ac.kr)
 
-- C#, Go, Rust and Network/System Programming in-depth experience
+- C#, Go, Rust and Network, System Programming in-depth experience
 - M.S. course in Department of Computer Engineering, [Keimyung University Computer Network Lab](https://sites.google.com/site/computernetworklab/) (Mar. 2025 - Present)
 
 |Most Languages|GitHub Stats|
@@ -59,7 +59,7 @@
   - Containerization
   - Custom images
   - Swarm clustering
-- DB 
+- DB
   - MySQL
 
 </details>
@@ -70,7 +70,7 @@
 <summary>Show</summary>
 
 - **Docker Korea Translation Project**
-  - Maintainer of [docker-ko.github.io](https://github.com/docker-ko/docker-ko.github.io), translating Docker official documentation into Korean to support local developers
+  - Maintainer of [Docker Korea](https://github.com/docker-ko/docker-ko.github.io), translating Docker official documentation into Korean to support local developers
 
 </details>
 
@@ -81,8 +81,8 @@
 
 |Organization|Major|Degree|Date|
 |------------|-----|------|----|
-|Keimyung University|Computer Engineering|B.S.|Mar. 2021 ~ Feb. 2025|
-|Keimyung University|Computer Systems (Network)|M.S. (in progress)|Mar. 2025 ~ Present|
+|Keimyung University|Computer Engineering      |B.S.              |Mar. 2021 ~ Feb. 2025|
+|Keimyung University|Computer Systems (Network)|M.S. (in progress)|Mar. 2025 ~ Present  |
 
 </details>
 
@@ -104,11 +104,11 @@
 <details>
 <summary>Show</summary>
 
-### Journal
-- [이성욱 and 주홍택, *"K-P2PLab: P2P 네트워크 토폴로지 분석을 위한 테스트베드 및 분석 플랫폼 개발,"* KNOM Review, Vol. 27, No. 2, pp. 40–48, Dec. 2024. doi:10.22670/knom.2024.27.2.40(KCI)](https://doi.org/10.22670/knom.2024.27.2.40)
-
 ### Conference
 - 이성욱, 김형엽, 김승민 and 주홍택, *"GossipSub Protocol 기반 P2P 네트워크에서 통신 지연시간이 브로드캐스트 효율성에 미치는 영향 분석,"* KNOM Conference 2025, pp. 12-16, Apr. 2025.
+
+### Journal
+- [이성욱 and 주홍택, *"K-P2PLab: P2P 네트워크 토폴로지 분석을 위한 테스트베드 및 분석 플랫폼 개발,"* KNOM Review, Vol. 27, No. 2, pp. 40–48, Dec. 2024. doi:10.22670/knom.2024.27.2.40(KCI)](https://doi.org/10.22670/knom.2024.27.2.40)
 
 </details>
 
