@@ -95,6 +95,7 @@ Dept. Computer Systems(Network) M.S. course in [Keimyung University](https://www
 
 |Organization|Country|License|Branch|Date|
 |------------|-------|-------|------|----|
+|HRDK                 |Korea|Engineer                            |Information Processing|Sep. 12, 2025|
 |Ministry of Education|Korea|Secondary School Teacher Certificate|Information & Computer|Feb. 18, 2025|
 |HRDK                 |Korea|Craftsman                           |Elevator              |Jun. 21, 2019|
 |HRDK                 |Korea|Craftsman                           |Electricity           |Dec. 12, 2018|
