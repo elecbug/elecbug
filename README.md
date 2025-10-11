@@ -102,6 +102,15 @@ Dept. Computer Systems(Network) M.S. course in [Keimyung University](https://www
 
 </details>
 
+## Conference & Journal
+
+<details>
+<summary>Show</summary>
+
+- S. Lee, H. Kim, S. Kim and H. Ju, **"An Analysis of the Impact of Network Delay and Churn on Broadcast Efficiency in GossipSub-based P2P Networks,"** *2025 25th Asia-Pacific Network Operations and Management Symposium (APNOMS),* Kaohsiung, Taiwan, 2025, pp. 1-4, [doi: 10.23919/APNOMS67058.2025.11181302](https://doi.org/10.23919/APNOMS67058.2025.11181302).
+- S. Lee, H. Kim, S. Kim and H. Ju, **"K-P2PLab: A Scalable Docker Swarm-Based Testbed for Peer-to-Peer Topology Analysis,"** *2025 25th Asia-Pacific Network Operations and Management Symposium (APNOMS),* Kaohsiung, Taiwan, 2025, pp. 1-4, [doi: 10.23919/APNOMS67058.2025.11181317](https://doi.org/10.23919/APNOMS67058.2025.11181317).
+</details>
+
 ## Award
 
 <details>
