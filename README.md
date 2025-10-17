@@ -16,53 +16,26 @@ Dept. Computer Systems(Network) M.S. course in [Keimyung University](https://www
 
 ## Tech Stack
 
-<details>
-<summary>Show</summary>
-
-### 1. Programming Languages
-
-- C#
-- Go
-- Python
-- C/C++
-- Rust
-- Java
-
-### 2. Application Development
-
-- WinForm / WPF / MAUI (C#)
-- MS Office Interop (C#)
-
-### 3. Networking
-
-- General OSI-7 knowledge
-- Network security
-- P2P
-- Blockchain
-- [libp2p](https://libp2p.io) application
-  - Kademlia
-  - GossipSub
-
-### 4. Data Analysis & AI
-
-- Data analysis libs
-  - scipy / numpy / pyplot / networkx
-- Introductory AI skills
-
-### 5. DevOps & Infrastructure
-
-- Basic Linux skills
-- Scripting
-  - Shell script
-  - Makefile
-- Docker
-  - Containerization
-  - Custom images
-  - Swarm clustering
-- DB
-  - MySQL
-
-</details>
+![OSI-7](https://img.shields.io/badge/OSI--7-007ACC?&logo=github&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-EE4C2C?logo=github&logoColor=white)
+![P2P](https://img.shields.io/badge/P2P-0078D7?logo=ipfs&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?logo=blockchaindotcom&logoColor=white)
+![libp2p](https://img.shields.io/badge/libp2p-7C3AED?logo=ipfs&logoColor=white)
+![Kademlia](https://img.shields.io/badge/Kademlia_DHT-181717?logo=github&logoColor=white)
+![GossipSub](https://img.shields.io/badge/GossipSub-00A98F?logo=ipfs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=github&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![MAUI](https://img.shields.io/badge/.NET_MAUI-512BD4?logo=dotnet&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![NetworkX](https://img.shields.io/badge/NetworkX-00B3E6?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
 
 ## Academic Degree
 
@@ -104,9 +77,9 @@ Dept. Computer Systems(Network) M.S. course in [Keimyung University](https://www
 <summary>Show</summary>
 
 - **Docker Korea Translation Project**
-  - Maintainer of [Docker Korea](https://github.com/docker-ko/docker-ko.github.io), translating Docker official documentation into Korean to support local developers
+  - Maintainer of [Docker Korea](https://github.com/docker-ko/docker-ko.github.io), translating Docker official documentation into Korean to support local developers.
 - **KMU Developer Group Save**
-  - Maintainer of [KMU Developer Group Save](https://github.com/kmu-save), online study group for development at Keimyung University
+  - Maintainer of [KMU Developer Group Save](https://github.com/kmu-save), online study group for development at Keimyung University.
 
 </details>
 
