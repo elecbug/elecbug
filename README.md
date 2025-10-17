@@ -79,7 +79,7 @@ Dept. Computer Systems(Network) M.S. course in [Keimyung University](https://www
 <details>
 <summary>Show</summary>
 
-- 정보처리기사, 한국산업인력공단(HRDK), Sep. 12, 2025
+- 정보처리기사, 한국산업인력공단(HRDK), Sep. 12, 2025.
 - 정보·컴퓨터 교원 자격증 2급, 대한민국 교육부, Feb. 18, 2025.
 - 승강기기능사, 한국산업인력공단(HRDK), Jun. 21, 2019.
 - 전기기능사, 한국산업인력공단(HRDK), Dec. 12, 2018.
