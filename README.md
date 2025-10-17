@@ -42,8 +42,8 @@ Dept. Computer Systems(Network) M.S. course in [Keimyung University](https://www
 <details>
 <summary>Show</summary>
 
-- M.S. (진행 중) 컴퓨터공학 - 컴퓨터시스템전공 (Network), 계명대학교, Present.
-- B.S. 컴퓨터공학전공, 계명대학교, Feb. 2025.
+- M.S. Course, Dept. Computer Engineering - Computer System(Network), Keimyung Univ., Korea, Present.
+- B.S., Dept. Computer Engineering, Keimyung Univ., Korea, Feb. 2025.
 
 </details>
 
