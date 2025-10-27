@@ -4,7 +4,7 @@
 
 ## Bio
 
-- **M.S. Course**, Dept. Computer Engineering, *[ComNet Lab](https://comnet.kmu.ac.kr), [Keimyung University](https://www.kmu.ac.kr)*, Korea, Present.
+- **M.S. Course**, Dept. Computer Engineering, *[Computer Network Lab](https://comnet.kmu.ac.kr), [Keimyung University](https://www.kmu.ac.kr)*, Korea, Present.
 - **B.S.**, Dept. Computer Engineering, *[Keimyung University](https://www.kmu.ac.kr)*, Korea, Feb. 2025.
 
 ## Info
