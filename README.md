@@ -30,22 +30,6 @@
     </div></td>
   </tr>
   <tr>
-    <td><p align=right>System Software</p></td>
-    <td><div>
-      <img src="https://img.shields.io/badge/Git-EE4C2C?style=plastic&logo=git&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"></img>
-    </div></td>
-  </tr>
-  <tr>
-    <td><p align=right>Profiling Tool</p></td>
-    <td><div>
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=wireshark&logoColor=white"></img>
-    </div></td>
-  </tr>
-  <tr>
     <td><p align=right>Documenting Language</p></td>
     <td><div>
       <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></img>
@@ -84,6 +68,22 @@
     <td><div>
       <img src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white"></img>
       <img src="https://img.shields.io/badge/Node.js-5FA04E?style=plastic&logo=node.js&logoColor=white"></img>
+    </div></td>
+  </tr>
+  <tr>
+    <td><p align=right>System Software</p></td>
+    <td><div>
+      <img src="https://img.shields.io/badge/Git-EE4C2C?style=plastic&logo=git&logoColor=white"></img>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"></img>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"></img>
+    </div></td>
+  </tr>
+  <tr>
+    <td><p align=right>Profiling Tool</p></td>
+    <td><div>
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white"></img>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white"></img>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=wireshark&logoColor=white"></img>
     </div></td>
   </tr>
   <tr>
