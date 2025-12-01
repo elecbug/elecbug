@@ -25,7 +25,6 @@
       <img src="https://img.shields.io/badge/Networking-00629B?style=plastic&logo=ieee&logoColor=white"></img>
       <img src="https://img.shields.io/badge/P2P-0078D7?style=plastic&logo=ipfs&logoColor=white"></img>
       <img src="https://img.shields.io/badge/Blockchain-121D33?style=plastic&logo=blockchaindotcom&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/Kademlia-A9008F?style=plastic&logo=ipfs&logoColor=white"></img>
       <img src="https://img.shields.io/badge/GossipSub-00A98F?style=plastic&logo=ipfs&logoColor=white"></img>
     </div></td>
   </tr>
