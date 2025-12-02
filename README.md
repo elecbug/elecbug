@@ -130,7 +130,10 @@
 - **Docker Korea Translation Project**
   - Maintainer of [Docker Korea](https://github.com/docker-ko/docker-ko.github.io), translating Docker official documentation into Korean to support local developers.
 - **KMU Developer Group Save**
+  - Operate university academic club DUTO.
   - Maintainer of [KMU Developer Group Save](https://github.com/kmu-save), online study group for development at Keimyung University.
+- **Contributor for libp2p**
+  - Some contribution to the [libp2p project](https://github.com/libp2p).
 
 </details>
 
