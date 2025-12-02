@@ -130,14 +130,13 @@
 - **Docker Korea Translation Project**
   - Maintainer of [Docker Korea](https://github.com/docker-ko/docker-ko.github.io), translating Docker official documentation into Korean to support local developers.
 - **KMU Developer Group Save**
-  - Operate university academic club DUTO.
+  - Operated Keimyung University Computer S&E academic club DUTO.
   - Maintainer of [KMU Developer Group Save](https://github.com/kmu-save), online study group for development at Keimyung University.
 - **Contributor for libp2p**
   - Some contribution to the [libp2p project](https://github.com/libp2p).
 
 </details>
 
-<!--
 ## Award
 
 <details>
@@ -149,4 +148,3 @@
 - 창립 125주년 기념 대학생 에세이 대회, 자연공학분야 - 우수상, 계명대학교, Dec. 06, 2024.
 
 </details>
--->
