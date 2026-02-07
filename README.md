@@ -7,6 +7,7 @@
 - **M.S. Course**, Dept. Computer Engineering, *[Computer Network Lab](https://comnet.kmu.ac.kr), [Keimyung University](https://www.kmu.ac.kr)*, Korea, Present.
 - **B.S.**, Dept. Computer Engineering, *[Keimyung University](https://www.kmu.ac.kr)*, Korea, Feb. 2025.
 
+<!-- 
 ## Info
 
 <table>
@@ -15,6 +16,7 @@
     <td><img src="https://github-readme-stats.vercel.app/api?username=elecbug&count_private=true&show_icons=true&rank_icon=github&theme=dark&include_all_commits=true"/></td>
   </tr>
 </table>
+-->
 
 ## Tech Stack
 
