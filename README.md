@@ -7,94 +7,36 @@
 - **M.S. Course**, Dept. Computer Engineering, *[Computer Network Lab](https://comnet.kmu.ac.kr), [Keimyung University](https://www.kmu.ac.kr)*, Korea, Present.
 - **B.S.**, Dept. Computer Engineering, *[Keimyung University](https://www.kmu.ac.kr)*, Korea, Feb. 2025.
 
-<!-- 
-## Info
-
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elecbug&layout=compact&langs_count=8&theme=dark"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=elecbug&count_private=true&show_icons=true&rank_icon=github&theme=dark&include_all_commits=true"/></td>
-  </tr>
-</table>
--->
-
 ## Tech Stack
 
-<table>
-  <tr>
-    <td><p align=right>Personal Skill</p></td>
-    <td><div>
-      <img src="https://img.shields.io/badge/Networking-00629B?style=plastic&logo=ieee&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/P2P-0078D7?style=plastic&logo=ipfs&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/Blockchain-121D33?style=plastic&logo=blockchaindotcom&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/GossipSub-00A98F?style=plastic&logo=ipfs&logoColor=white"></img>
-    </div></td>
-  </tr>
-  <tr>
-    <td><p align=right>Documenting Language</p></td>
-    <td><div>
-      <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/LaTeX-008080?style=plastic&logo=latex&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=html5&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/CSS-663399?style=plastic&logo=css&logoColor=white"></img>
-    </div></td>
-  </tr>
-  <tr>
-    <td><p align=right>Programming Language</p></td>
-    <td><div>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=c&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=dotnet&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=openjdk&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=plastic&logo=go&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/Rust-000000?style=plastic&logo=rust&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white"></img>
-    </div></td>
-  </tr>
-  <tr>
-    <td><p align=right>Library</p></td>
-    <td><div>
-      <img src="https://img.shields.io/badge/OpenSSL-721412?style=plastic&logo=openssl&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/NetworkX-3776AB?style=plastic&logo=python&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=plastic&logo=scipy&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/Pandas-AA8CE6?style=plastic&logo=pandas&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/Matplot-E68CAA?style=plastic&logo=python&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/libp2p-00ADD8?style=plastic&logo=ipfs&logoColor=white"></img>
-    </div></td>
-  </tr>
-  <tr>
-    <td><p align=right>Framework</p></td>
-    <td><div>
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/Node.js-5FA04E?style=plastic&logo=node.js&logoColor=white"></img>
-    </div></td>
-  </tr>
-  <tr>
-    <td><p align=right>System Software</p></td>
-    <td><div>
-      <img src="https://img.shields.io/badge/Git-EE4C2C?style=plastic&logo=git&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"></img>
-    </div></td>
-  </tr>
-  <tr>
-    <td><p align=right>Profiling Tool</p></td>
-    <td><div>
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=wireshark&logoColor=white"></img>
-    </div></td>
-  </tr>
-  <tr>
-    <td><p align=right>OS</p></td>
-    <td><div>
-      <img src="https://img.shields.io/badge/Linux-2E2E2E?style=plastic&logo=linux&logoColor=white"></img>
-      <img src="https://img.shields.io/badge/Ubuntu-DD4814?style=plastic&logo=ubuntu&logoColor=white"></img>
-    </div></td>
-  </tr>
-</table>
+<details>
+<summary>Show</summary>
+
+### Personal Skill
+- Network/Infrastructure Operations and Management
+- P2P and Blockchain
+- GossipSub/libp2p
+
+### Document Language
+- Markdown, LaTeX, HTML, CSS
+
+### Programming Language
+- C/C++, C#, Java, Python, Go, Rust, Javascript
+
+### Library and Framework
+- OpenSSL, NetworkX, NumPy/SciPy and more, libp2p
+- .Net, Node.js
+
+### System Software
+- Git, Docker/Swarm, MySQL
+
+### Monitoring
+- Prometheus, Grafana, Wireshark
+
+### OS
+- Ubuntu/Linux, Windows
+
+</details>
 
 ## License
 
