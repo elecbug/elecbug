@@ -42,26 +42,35 @@
 * **NetworkX**
 * **NumPy / SciPy**
 
-### Infrastructure & DevOps
+### Infrastructure & Systems
 
-* **Docker**
-* **Docker Swarm**
-* **Linux Server Operations**
+* **Research Lab Infrastructure Design**
+* **On-premise Server Operations**
 * **Containerized Experiment Platforms**
-* **PXE / System Deployment**
+* **Docker / Docker Swarm**
+* **PXE-based System Deployment**
+* **Linux Server Administration**
+
+### Storage & Data Reliability
+
+* **RAID Storage Architecture**
+* **NAS Storage Management**
+* **Data Integrity & Backup Strategy**
+* **Storage Capacity Planning**
 
 ### Networking & Monitoring
 
+* **Linux Networking**
+* **Network Diagnostics**
 * **Wireshark**
 * **Prometheus**
 * **Grafana**
-* **iproute2 / net-tools**
 
 ### Data & Experimentation
 
 * **Python Data Analysis**
 * **Graph-based Metric Analysis**
-* **Network Simulation & Experiment Automation**
+* **Network Experiment Automation**
 
 ### System & Database
 
