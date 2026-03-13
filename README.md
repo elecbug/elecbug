@@ -12,29 +12,72 @@
 <details>
 <summary>Show</summary>
 
-### Personal Skill
-- Network/Infrastructure Operations and Management
-- P2P and Blockchain
-- GossipSub/libp2p
+### Research & Domain
 
-### Document Language
-- Markdown, LaTeX, HTML, CSS
+* **P2P Networks**
+* **Distributed Systems**
+* **Blockchain Systems**
+* **GossipSub / libp2p**
+* **Network Graph Analysis**
+* **Large-scale P2P Testbed Design**
+* **Distributed Network Experimentation**
 
-### Programming Language
-- C/C++, C#, Java, Python, Go, Rust, Javascript
+### Programming Languages
 
-### Library and Framework
-- OpenSSL, NetworkX, NumPy/SciPy and more, libp2p
-- .Net, Node.js
+* **C / C++**
+* **C#**
+* **Go**
+* **Rust**
+* **Python**
+* **Java**
+* **JavaScript**
 
-### System Software
-- Git, Docker/Swarm, MySQL
+### Libraries & Frameworks
 
-### Monitoring
-- Prometheus, Grafana, Wireshark
+* **libp2p**
+* **OpenSSL**
+* **.NET**
+* **Node.js**
+* **NetworkX**
+* **NumPy / SciPy**
 
-### OS
-- Ubuntu/Linux, Windows
+### Infrastructure & DevOps
+
+* **Docker**
+* **Docker Swarm**
+* **Linux Server Operations**
+* **Containerized Experiment Platforms**
+* **PXE / System Deployment**
+
+### Networking & Monitoring
+
+* **Wireshark**
+* **Prometheus**
+* **Grafana**
+* **iproute2 / net-tools**
+
+### Data & Experimentation
+
+* **Python Data Analysis**
+* **Graph-based Metric Analysis**
+* **Network Simulation & Experiment Automation**
+
+### System & Database
+
+* **Ubuntu / Linux**
+* **Windows**
+* **MySQL**
+
+### Development & Toolchain
+
+* **Git**
+* **GCC / Clang**
+
+### Documentation
+
+* **Markdown**
+* **LaTeX**
+* **HTML / CSS**
 
 </details>
 
