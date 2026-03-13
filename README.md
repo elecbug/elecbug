@@ -1,6 +1,7 @@
 # Profile
 
-**Computer Network and System Engineer**
+**Computer Network/System Engineer**
+**Infrastructure Manager**
 
 ## Bio
 
