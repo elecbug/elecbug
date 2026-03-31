@@ -10,8 +10,8 @@ and large-scale distributed experimentation.
 My interests include GossipSub/libp2p analysis, network graph metrics,
 containerized testbed design, and research infrastructure automation.
 
-**M.S. Course**, Dept. Computer Engineering, *[Computer Network Lab](https://comnet.kmu.ac.kr), [Keimyung University](https://www.kmu.ac.kr)*, Korea, Present.  
-**B.S.**, Dept. Computer Engineering, *[Keimyung University](https://www.kmu.ac.kr)*, Korea, Feb. 2025.
+- **M.S. Course**, Dept. Computer Engineering, *[Computer Network Lab](https://comnet.kmu.ac.kr), [Keimyung University](https://www.kmu.ac.kr)*, Korea, Present.  
+- **B.S.**, Dept. Computer Engineering, *[Keimyung University](https://www.kmu.ac.kr)*, Korea, Feb. 2025.
 
 ## Tech Stack
 
