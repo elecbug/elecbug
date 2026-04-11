@@ -13,6 +13,10 @@ containerized testbed design, and research infrastructure automation.
 - **M.S. Course**, Dept. Computer Engineering, *[Computer Network Lab](https://comnet.kmu.ac.kr), [Keimyung University](https://www.kmu.ac.kr)*, Korea, Present.  
 - **B.S.**, Dept. Computer Engineering, *[Keimyung University](https://www.kmu.ac.kr)*, Korea, Feb. 2025.
 
+|Most Languages|GitHub Stats|
+|--------------|------------|
+|![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=elecbug&layout=compact&langs_count=8&theme=dark)|![](https://github-readme-stats-fast.vercel.app/api?username=elecbug&count_private=true&show_icons=true&rank_icon=github&theme=dark&include_all_commits=true)|
+
 ## Tech Stack
 
 <details>
