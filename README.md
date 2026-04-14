@@ -1,17 +1,16 @@
 # Profile
 
-**Computer Network / Distributed Systems Engineer**  
-**Building large-scale P2P testbeds, blockchain experiments, and research infrastructure**
+**Computer Network / Distributed Systems Engineer**
 
 ## Bio
 
-I am a graduate student and engineer working on P2P networks, blockchain systems,
-and large-scale distributed experimentation.
-My interests include GossipSub/libp2p analysis, network graph metrics,
-containerized testbed design, and research infrastructure automation.
+I am a graduate student and engineer working on P2P networks, blockchain systems, and large-scale distributed experimentation.
+My interests include GossipSub/libp2p analysis, network graph metrics, container-based testbed design and research.
 
-- **M.S. Course**, Dept. Computer Engineering, *[Computer Network Lab](https://comnet.kmu.ac.kr), [Keimyung University](https://www.kmu.ac.kr)*, Korea, Present.  
-- **B.S.**, Dept. Computer Engineering, *[Keimyung University](https://www.kmu.ac.kr)*, Korea, Feb. 2025.
+### Academic Degree
+
+- **M.S. Course**, Dept. Computer Engineering, *[Computer Network Lab](https://comnet.kmu.ac.kr), [Keimyung University](https://www.kmu.ac.kr)*, Korea, Mar. 2025. - Present.
+- **B.S.**, Dept. Computer Engineering, *[Keimyung University](https://www.kmu.ac.kr)*, Korea, Mar. 2021 - Feb. 2025.
 
 |Most Languages|GitHub Stats|
 |--------------|------------|
@@ -24,15 +23,19 @@ containerized testbed design, and research infrastructure automation.
 
 ### Research & Domain
 
-P2P Networks, Distributed Systems, Blockchain Systems, GossipSub / libp2p, Network Graph Analysis, Large-scale P2P Testbed Design, Distributed Network Experimentation
+**P2P Networks Analysis(through by Graph Theory, Topology, Churn, Broadcast Metrics)**, Distributed Systems, Blockchain Systems, **GossipSub / libp2p**
 
 ### Programming Languages
 
 C / C++, **C# / .NET**, **Go**, Rust, **Python**, Java, JavaScript / Node.js
 
-<!-- ### Libraries & Frameworks
+**C#**: MS Office SDK, Google API, OpenSSL, WinForm, WPF, MAUI  
+**Go**: libp2p, Docker API, Crypto Libraries  
+**Python**: Statistical Analysis and Machine Learning Tools(NumPy, SciPy, PyPlot, NetworkX...)  
 
-**libp2p**, OpenSSL, **.NET**, Node.js, **NetworkX**, NumPy / SciPy / PyPlot, **Docker API** -->
+### System Software
+
+**Git**, **Docker / Docker Swarm**, MySQL
 
 ### Infrastructure & Systems
 
@@ -41,10 +44,6 @@ C / C++, **C# / .NET**, **Go**, Rust, **Python**, Java, JavaScript / Node.js
 ### Networking & Monitoring
 
 **Linux Networking**, Network Diagnostics, Wireshark, Prometheus, Grafana
-
-### System Software
-
-**Git**, **Docker / Docker Swarm**, MySQL
 
 ### Documentation
 
@@ -57,10 +56,10 @@ Markdown, LaTeX, HTML / CSS
 <details>
 <summary>Show (in Korea)</summary>
 
-- Craftsman Electricity, HRDK, Korea, Dec. 12, 2018.
-- Craftsman Elevator, HRDK, Korea, Jun. 21, 2019.
-- Information·Computer Secondary School Regular Teacher (Level 2), Ministry of Education, Korea, Feb. 18, 2025.
 - Engineer Information Processing, HRDK, Korea, Sep. 12, 2025.
+- Information·Computer Secondary School Regular Teacher (Level 2), Ministry of Education, Korea, Feb. 18, 2025.
+- Craftsman Elevator, HRDK, Korea, Jun. 21, 2019.
+- Craftsman Electricity, HRDK, Korea, Dec. 12, 2018.
 
 </details>
 
@@ -69,10 +68,10 @@ Markdown, LaTeX, HTML / CSS
 <details>
 <summary>Show (Korean Paper)</summary>
 
-- **이성욱**, 주홍택, **"K-P2PLab: P2P 네트워크 토폴로지 분석을 위한 테스트베드 및 분석 플랫폼 개발,"** in *KNOM Review,* vol. 27, no. 2, pp. 40-48, Dec. 2024.
-  - [doi:10.22670/knom.2024.27.2.40](https://doi.org/10.22670/knom.2024.27.2.40).
 - **이성욱**, 김형엽, 김승민, 주홍택, **"GossipSub Protocol 기반 P2P 네트워크에서 통신 지연시간이 브로드캐스트 효율성에 미치는 영향분석,"** in *Proc. 2025 통신망운용관리 학술대회,* Daejeon, Korea, pp. 12-16, Apr. 2025.
   - [Online](http://dpnm.postech.ac.kr/papers/KNOM/25/KNOM2025_proceedings.pdf).
+- **이성욱**, 주홍택, **"K-P2PLab: P2P 네트워크 토폴로지 분석을 위한 테스트베드 및 분석 플랫폼 개발,"** in *KNOM Review,* vol. 27, no. 2, pp. 40-48, Dec. 2024.
+  - [doi:10.22670/knom.2024.27.2.40](https://doi.org/10.22670/knom.2024.27.2.40).
 
 </details>
 
@@ -106,9 +105,9 @@ Markdown, LaTeX, HTML / CSS
 <details>
 <summary>Show (in Keimyung University)</summary>
 
-- 창의 IT 경진대회, 프로그램 해커톤 - 우수상, 계명대학교, Oct. 22, 2022.
-- 국가우수장학금(이공계), 과학기술정보통신부, Oct. 31, 2023
-- 인공지능 소프트웨어 경진대회, AI 프로그램 - 대상, 계명대학교, Sep. 09, 2024
 - 창립 125주년 기념 대학생 에세이 대회, 자연공학분야 - 우수상, 계명대학교, Dec. 06, 2024.
+- 인공지능 소프트웨어 경진대회, AI 프로그램 - 대상, 계명대학교, Sep. 09, 2024
+- 국가우수장학금(이공계), 과학기술정보통신부, Oct. 31, 2023
+- 창의 IT 경진대회, 프로그램 해커톤 - 우수상, 계명대학교, Oct. 22, 2022.
 
 </details>
