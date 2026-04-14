@@ -29,9 +29,9 @@ My interests include GossipSub/libp2p analysis, network graph metrics, container
 
 C / C++, **C# / .NET**, **Go**, Rust, **Python**, Java, JavaScript / Node.js
 
-**C#**: MS Office SDK, Google API, OpenSSL, WinForm, WPF, MAUI  
-**Go**: libp2p, Docker API, Crypto Libraries  
-**Python**: Statistical Analysis and Machine Learning Tools(NumPy, SciPy, PyPlot, NetworkX...)  
+- **C#**: MS Office SDK, Google API, OpenSSL, WinForm, WPF, MAUI
+- **Go**: libp2p, Docker API, Crypto Libraries
+- **Python**: Statistical Analysis and Machine Learning Tools(NumPy, SciPy, PyPlot, NetworkX...)  
 
 ### System Software
 
