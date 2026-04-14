@@ -24,79 +24,31 @@ containerized testbed design, and research infrastructure automation.
 
 ### Research & Domain
 
-* P2P Networks
-* Distributed Systems
-* Blockchain Systems
-* GossipSub / libp2p
-* Network Graph Analysis
-* Large-scale P2P Testbed Design
-* Distributed Network Experimentation
+P2P Networks, Distributed Systems, Blockchain Systems, GossipSub / libp2p, Network Graph Analysis, Large-scale P2P Testbed Design, Distributed Network Experimentation
 
 ### Programming Languages
 
-* C / C++
-* C#
-* Go
-* Rust
-* Python
-* Java
-* JavaScript
+C / C++, **C# / .NET**, **Go**, Rust, **Python**, Java, JavaScript / Node.js
 
-### Libraries & Frameworks
+<!-- ### Libraries & Frameworks
 
-* libp2p
-* OpenSSL
-* .NET
-* Node.js
-* NetworkX
-* NumPy / SciPy
+**libp2p**, OpenSSL, **.NET**, Node.js, **NetworkX**, NumPy / SciPy / PyPlot, **Docker API** -->
 
 ### Infrastructure & Systems
 
-* Research Lab Infrastructure Design
-* On-premise Server Operations
-* Containerized Experiment Platforms
-* Docker / Docker Swarm
-* PXE-based System Deployment
-* Linux Server Administration
-
-### Storage & Data Reliability
-
-* RAID Storage Architecture
-* NAS Storage Management
-* Data Integrity & Backup Strategy
-* Storage Capacity Planning
+**Computing Infrastructure Design**, **Linux Server Administration**, RAID/NAS Storage Management
 
 ### Networking & Monitoring
 
-* Linux Networking
-* Network Diagnostics
-* Wireshark
-* Prometheus
-* Grafana
+**Linux Networking**, Network Diagnostics, Wireshark, Prometheus, Grafana
 
-### Data & Experimentation
+### System Software
 
-* Python Data Analysis
-* Graph-based Metric Analysis
-* Network Experiment Automation
-
-### System & Database
-
-* Ubuntu / Linux
-* Windows
-* MySQL
-
-### Development & Toolchain
-
-* Git
-* GCC / Clang
+**Git**, **Docker / Docker Swarm**, MySQL
 
 ### Documentation
 
-* Markdown
-* LaTeX
-* HTML / CSS
+Markdown, LaTeX, HTML / CSS
 
 </details>
 
