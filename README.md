@@ -1,6 +1,6 @@
 # Profile
 
-**Computer Network / Distributed Systems Engineer**
+**Computer Network Engineer \& Distributed Systems Engineer**
 
 ## Bio
 
