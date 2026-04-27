@@ -2,6 +2,8 @@
 
 **Computer Network Engineer \& Distributed Systems Engineer**
 
+---
+
 ## Bio
 
 I am a graduate student and engineer working on P2P networks, blockchain systems, and large-scale distributed experimentation.
@@ -9,8 +11,8 @@ My interests include GossipSub/libp2p analysis, network graph metrics, container
 
 ### Academic Degree
 
-**M.S. Course**, Dept. Computer Engineering, *[Computer Network Lab](https://comnet.kmu.ac.kr), [Keimyung University](https://www.kmu.ac.kr)*, Korea, Mar. 2025. - Present.  
-**B.S.**, Dept. Computer Engineering, *[Keimyung University](https://www.kmu.ac.kr)*, Korea, Mar. 2021 - Feb. 2025.  
+- **M.S. Course**, Dept. Computer Engineering, *[Computer Network Lab](https://comnet.kmu.ac.kr), [Keimyung University](https://www.kmu.ac.kr)*, Korea, Mar. 2025. - Present.
+- **B.S.**, Dept. Computer Engineering, *[Keimyung University](https://www.kmu.ac.kr)*, Korea, Mar. 2021 - Feb. 2025.
 
 ### Conference & Journal
 
@@ -30,6 +32,8 @@ You can check my [Google Scholar](https://scholar.google.co.kr/citations?user=Jh
 - 창의 IT 경진대회, 프로그램 해커톤 - 우수상, 계명대학교, Oct. 22, 2022.
 - 창립 125주년 기념 대학생 에세이 대회, 자연공학분야 - 우수상, 계명대학교, Dec. 06, 2024.
 
+---
+
 ## Specification
 
 |Most Languages|GitHub Stats|
@@ -41,25 +45,25 @@ You can check my [Google Scholar](https://scholar.google.co.kr/citations?user=Jh
 <details>
 <summary>Show</summary>
 
-#### **Research & Domain**
+#### **1) Research & Domain**
 **P2P Networks Analysis(through by Graph Theory, Topology, Churn, Broadcast Metrics)**, Distributed Systems, Blockchain Systems, **GossipSub / libp2p**
 
-#### **Programming Languages**
+#### **2) Programming Languages**
 C / C++, **C# / .NET**, **Go**, Rust, **Python**, Java, JavaScript / Node.js
 - **C#**: MS Office SDK, Google API, OpenSSL, WinForm, WPF, MAUI
 - **Go**: libp2p, Docker API, Crypto Libraries
 - **Python**: Statistical Analysis and Machine Learning Tools(NumPy, SciPy, PyPlot, NetworkX...)
 
-#### **System Software**
+#### **3) System Software**
 **Git**, **Docker / Docker Swarm**, MySQL
 
-#### **Infrastructure & Systems**
+#### **4) Infrastructure & Systems**
 **Computing Infrastructure Design**, **Linux Server Administration**, RAID/NAS Storage Management
 
-#### **Networking & Monitoring**
+#### **5) Networking & Monitoring**
 **Linux Networking**, Network Diagnostics, Wireshark, Prometheus, Grafana
 
-#### **Documentation**
+#### **6) Documentation**
 Markdown, LaTeX, HTML / CSS
 
 ---
