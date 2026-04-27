@@ -9,13 +9,12 @@ My interests include GossipSub/libp2p analysis, network graph metrics, container
 
 ### Academic Degree
 
-- **M.S. Course**, Dept. Computer Engineering, *[Computer Network Lab](https://comnet.kmu.ac.kr), [Keimyung University](https://www.kmu.ac.kr)*, Korea, Mar. 2025. - Present.
-- **B.S.**, Dept. Computer Engineering, *[Keimyung University](https://www.kmu.ac.kr)*, Korea, Mar. 2021 - Feb. 2025.
+**M.S. Course**, Dept. Computer Engineering, *[Computer Network Lab](https://comnet.kmu.ac.kr), [Keimyung University](https://www.kmu.ac.kr)*, Korea, Mar. 2025. - Present.  
+**B.S.**, Dept. Computer Engineering, *[Keimyung University](https://www.kmu.ac.kr)*, Korea, Mar. 2021 - Feb. 2025.  
 
 ### Conference & Journal
 
-Please, check [Google Scholar](https://scholar.google.co.kr/citations?user=Jh6qFvoAAAAJ&hl=en&oi=sra), or [ORCID](https://orcid.org/0009-0002-5796-6474).
-
+You can check my [Google Scholar](https://scholar.google.co.kr/citations?user=Jh6qFvoAAAAJ&hl=en&oi=sra), or [ORCID](https://orcid.org/0009-0002-5796-6474) pages.
 
 ### Certification
 
@@ -26,10 +25,10 @@ Please, check [Google Scholar](https://scholar.google.co.kr/citations?user=Jh6qF
 
 ### Award
 
-- 창립 125주년 기념 대학생 에세이 대회, 자연공학분야 - 우수상, 계명대학교, Dec. 06, 2024.
-- 인공지능 소프트웨어 경진대회, AI 프로그램 - 대상, 계명대학교, Sep. 09, 2024
-- 국가우수장학금(이공계), 과학기술정보통신부, Oct. 31, 2023
+- 국가우수장학금(이공계), 과학기술정보통신부, Oct. 31, 2023.
+- 인공지능 소프트웨어 경진대회, AI 프로그램 - 대상, 계명대학교, Sep. 09, 2024.
 - 창의 IT 경진대회, 프로그램 해커톤 - 우수상, 계명대학교, Oct. 22, 2022.
+- 창립 125주년 기념 대학생 에세이 대회, 자연공학분야 - 우수상, 계명대학교, Dec. 06, 2024.
 
 ## Specification
 
