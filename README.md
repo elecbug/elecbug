@@ -7,25 +7,31 @@
 I am a graduate student and engineer working on P2P networks, blockchain systems, and large-scale distributed experimentation.
 My interests include GossipSub/libp2p analysis, network graph metrics, container-based testbed design and research.
 
-## Academic Degree
+### Academic Degree
 
 - **M.S. Course**, Dept. Computer Engineering, *[Computer Network Lab](https://comnet.kmu.ac.kr), [Keimyung University](https://www.kmu.ac.kr)*, Korea, Mar. 2025. - Present.
 - **B.S.**, Dept. Computer Engineering, *[Keimyung University](https://www.kmu.ac.kr)*, Korea, Mar. 2021 - Feb. 2025.
+
+### Conference & Journal
+- [Google Scholar](https://scholar.google.co.kr/citations?user=Jh6qFvoAAAAJ&hl=en&oi=sra)
+- [ORCID](https://orcid.org/0009-0002-5796-6474)
 
 |Most Languages|GitHub Stats|
 |--------------|------------|
 |![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=elecbug&layout=compact&langs_count=8&theme=dark)|![](https://github-readme-stats-fast.vercel.app/api?username=elecbug&count_private=true&show_icons=true&rank_icon=github&theme=dark&include_all_commits=true)|
 
-## Tech Stack
+## Specification
+
+### Tech Stack
 
 <details>
 <summary>Show</summary>
 
-### Research & Domain
+#### Research & Domain
 
 **P2P Networks Analysis(through by Graph Theory, Topology, Churn, Broadcast Metrics)**, Distributed Systems, Blockchain Systems, **GossipSub / libp2p**
 
-### Programming Languages
+#### Programming Languages
 
 C / C++, **C# / .NET**, **Go**, Rust, **Python**, Java, JavaScript / Node.js
 
@@ -33,25 +39,25 @@ C / C++, **C# / .NET**, **Go**, Rust, **Python**, Java, JavaScript / Node.js
 - **Go**: libp2p, Docker API, Crypto Libraries
 - **Python**: Statistical Analysis and Machine Learning Tools(NumPy, SciPy, PyPlot, NetworkX...)  
 
-### System Software
+#### System Software
 
 **Git**, **Docker / Docker Swarm**, MySQL
 
-### Infrastructure & Systems
+#### Infrastructure & Systems
 
 **Computing Infrastructure Design**, **Linux Server Administration**, RAID/NAS Storage Management
 
-### Networking & Monitoring
+#### Networking & Monitoring
 
 **Linux Networking**, Network Diagnostics, Wireshark, Prometheus, Grafana
 
-### Documentation
+#### Documentation
 
 Markdown, LaTeX, HTML / CSS
 
 </details>
 
-## Certification
+### Certification
 
 <details>
 <summary>Show (in Korea)</summary>
@@ -63,33 +69,7 @@ Markdown, LaTeX, HTML / CSS
 
 </details>
 
-## Conference & Journal
-
-<details>
-<summary>Show (Korean Paper)</summary>
-
-### Conference
-- 김애리, 김형엽, **이성욱**, 이진혁, 이한빈, 오우빈, 주홍택, **"블록체인 P2P 네트워크 비교 분석,"** in *Proc. 2023 통신망운용관리 학술대회 (KNOM 2023)*, Jeju, Korea, pp. 54-57, May 2023.
-- **이성욱**, 김형엽, 김승민, 주홍택, **"GossipSub Protocol 기반 P2P 네트워크에서 통신 지연시간이 브로드캐스트 효율성에 미치는 영향분석,"** in *Proc. 2025 통신망운용관리 학술대회 (KNOM 2025),* Daejeon, Korea, pp. 12-16, Apr. 2025.
-
-### Journal
-- **이성욱**, 주홍택, **"K-P2PLab: P2P 네트워크 토폴로지 분석을 위한 테스트베드 및 분석 플랫폼 개발,"** *KNOM Review,* vol. 27, no. 2, pp. 40-48, Dec. 2024.
-  - [doi:10.22670/knom.2024.27.2.40](https://doi.org/10.22670/knom.2024.27.2.40).
-
-</details>
-
-<details>
-<summary>Show (English Paper)</summary>
-
-### Conference
-- **Sungwook Lee**, Hyungyeop Kim, Seungmin Kim and Hongtaek Ju, **"An Analysis of the Impact of Network Delay and Churn on Broadcast Efficiency in GossipSub-based P2P Networks,"** in *Proc. 2025 25th Asia-Pacific Network Operations and Management Symposium (APNOMS),* Kaohsiung, Taiwan, pp. 1-4, Sep. 2025.
-  - [doi: 10.23919/APNOMS67058.2025.11181302](https://doi.org/10.23919/APNOMS67058.2025.11181302).
-- **Sungwook Lee**, Hyungyeop Kim, Seungmin Kim and Hongtaek Ju, **"K-P2PLab: A Scalable Docker Swarm-Based Testbed for Peer-to-Peer Topology Analysis,"** in *Proc. 2025 25th Asia-Pacific Network Operations and Management Symposium (APNOMS),* Kaohsiung, Taiwan, pp. 1-4, Sep. 2025.
-  - [doi: 10.23919/APNOMS67058.2025.11181317](https://doi.org/10.23919/APNOMS67058.2025.11181317).
-
-</details>
-
-## Community Contribution
+### Community Contribution
 
 <details>
 <summary>Show</summary>
@@ -104,7 +84,7 @@ Markdown, LaTeX, HTML / CSS
 
 </details>
 
-## Award
+### Award
 
 <details>
 <summary>Show (in Keimyung University)</summary>
