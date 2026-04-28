@@ -16,11 +16,11 @@ Check my [Bio page](./bio.md)
 
 ## Community Contribution
 
-- **Maintainer of Docker Korea Translation Project**
-  - Maintainer of [Docker Korea](https://github.com/docker-ko/docker-ko.github.io), translating Docker official documentation into Korean to support local developers.
-- **Maintainer of KMU Developer Group Save**
-  - Maintainer of [KMU Developer Group Save](https://github.com/kmu-save), online study group for development at Keimyung University, Jan. 2025 - Present.
+- **Organizer of KMU Developer Group Save**
+  - Organizer of [KMU Developer Group Save](https://github.com/kmu-save), online study group for development at Keimyung University, Jan. 2025 - Present.
   - Organizer of the Keimyung University Computer S&E academic community DUTO, Sep. 2022 - Dec. 2024.
+- **Maintainer of Docker Korea Translation Project**
+  - Maintainer of [Docker Korea](https://github.com/docker-ko/docker-ko.github.io), translating Docker official documentation into Korean to support local developers, Jan. 2025 - Present.
 - **Contributor for libp2p**
   - Contributor to the [libp2p project](https://github.com/libp2p).
 
