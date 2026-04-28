@@ -12,6 +12,8 @@
 
 Check my [Bio page](./bio.md)
 
+---
+
 ## Community Contribution
 
 - **Maintainer of Docker Korea Translation Project**
