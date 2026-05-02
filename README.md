@@ -10,7 +10,7 @@
 
 ## Bio
 
-Check my [Bio page](./bio.md)
+You can check my [Bio page](./bio.md).
 
 ---
 
