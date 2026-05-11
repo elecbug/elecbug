@@ -1,6 +1,7 @@
 # Profile
 
-**Computer Network Engineer \& Distributed Systems Engineer**
+**Network and Infra Engineer**  
+**Distributed Systems Engineer**
 
 |Most Languages|GitHub Stats|
 |--------------|------------|
