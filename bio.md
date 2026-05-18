@@ -31,6 +31,7 @@ My interests include GossipSub/libp2p analysis, network graph metrics, container
 ## Award
 
 - 국가우수장학금(이공계), 과학기술정보통신부, Oct. 31, 2023.
+- KNOM Conference 2026, 우수논문상 - 최우수상, 한국통신학회, May 08, 2026.
 - 인공지능 소프트웨어 경진대회, AI 프로그램 - 대상, 계명대학교, Sep. 09, 2024.
 - 창의 IT 경진대회, 프로그램 해커톤 - 우수상, 계명대학교, Oct. 22, 2022.
 - 창립 125주년 기념 대학생 에세이 대회, 자연공학분야 - 우수상, 계명대학교, Dec. 06, 2024.
