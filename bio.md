@@ -9,7 +9,7 @@ My interests include GossipSub/libp2p analysis, network graph metrics, container
 
 ## Academic Degree
 
-- **M.S. Course**, Dept. Computer Engineering, *[Computer Network Lab](https://comnet.kmu.ac.kr), [Keimyung University](https://www.kmu.ac.kr)*, Korea, Mar. 2025 - Present.  
+- **M.S. Student**, Dept. Computer Engineering, *[Computer Network Lab](https://comnet.kmu.ac.kr), [Keimyung University](https://www.kmu.ac.kr)*, Korea, Mar. 2025 - Present.  
 - **B.S.**, Dept. Computer Engineering, *[Keimyung University](https://www.kmu.ac.kr)*, Korea, Mar. 2021 - Feb. 2025.  
 
 ## Conference & Journal
