@@ -5,11 +5,16 @@ My interests include GossipSub/libp2p analysis, network graph metrics, container
 
 ## Research & Domain
 
-**P2P Networks Analysis(through by Graph Theory, Topology, Churn, Broadcast Metrics)**, Distributed Systems, Blockchain Systems, **GossipSub / libp2p**
+- **P2P Networks Analysis(through by Graph Theory, Topology, Churn, Broadcast Metrics)**
+- **GossipSub / libp2p**
+- Distributed Systems
+- Blockchain Systems
 
 ## Academic Degree
 
-- **M.S. Student**, Dept. Computer Engineering, *[Computer Network Lab](https://comnet.kmu.ac.kr), [Keimyung University](https://www.kmu.ac.kr)*, Korea, Mar. 2025 - Present.  
+I have studied **Computer Networks** in *[Computer Network Lab.](https://comnet.kmu.ac.kr)*, at Apr. 2023 - Present.
+
+- **M.S. Student**, Dept. Computer Engineering, *[Keimyung University](https://www.kmu.ac.kr)*, Korea, Mar. 2025 - Present.  
 - **B.S.**, Dept. Computer Engineering, *[Keimyung University](https://www.kmu.ac.kr)*, Korea, Mar. 2021 - Feb. 2025.  
 
 ## Conference & Journal
