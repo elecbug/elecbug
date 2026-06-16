@@ -1,7 +1,6 @@
 # Profile
 
-**Network and Infra Engineer**  
-**Distributed Systems Engineer**
+**Network and Infra Engineer** & **Distributed Systems Engineer**
 
 |Most Languages|GitHub Stats|
 |--------------|------------|
@@ -17,9 +16,9 @@ You can check my [Bio page](./bio.md).
 
 ## Community Contribution
 
-- **Organizer of KMU Developer Group Save**
-  - Organizer of [KMU Developer Group Save](https://github.com/kmu-save), online study group for development at Keimyung University, Jan. 2025 - Present.
-  - Organizer of the Keimyung University Computer S&E academic community DUTO, Sep. 2022 - Dec. 2024.
+- **Organizer of KMU Developer Group**
+  - Organizer of [KMU Developer Group Save](https://github.com/kmu-save), online study group for development at [Keimyung University](https://www.kmu.ac.kr), Jan. 2025 - Present.
+  - Organizer of the DUTO, computer science & engineering academic community in [Keimyung University](https://www.kmu.ac.kr), Sep. 2022 - Dec. 2024.
 - **Maintainer of Docker Korea Translation Project**
   - Maintainer of [Docker Korea](https://github.com/docker-ko/docker-ko.github.io), translating Docker official documentation into Korean to support local developers, Jan. 2025 - Present.
 - **Contributor for libp2p**
