@@ -1,48 +1,61 @@
 # Profile
 
-**Network and Infra Engineer** & **Distributed Systems Engineer**
+**Network & Infrastructure Engineer**
+**Distributed Systems Engineer**
 
-|Most Languages|GitHub Stats|
-|--------------|------------|
-|![](https://github-readme-stats-fast.vercel.app/api/top-langs?username=elecbug&layout=compact&langs_count=8&theme=dark)|![](https://github-readme-stats-fast.vercel.app/api?username=elecbug&count_private=true&show_icons=true&rank_icon=github&theme=dark&include_all_commits=true)|
+| Top Languages                                                                                                              | GitHub Stats                                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![](https://github-readme-stats-fast.vercel.app/api/top-langs?username=elecbug\&layout=compact\&langs_count=8\&theme=dark) | ![](https://github-readme-stats-fast.vercel.app/api?username=elecbug\&count_private=true\&show_icons=true\&rank_icon=github\&theme=dark\&include_all_commits=true) |
 
 ---
 
 ## Bio
 
-You can check my [Bio page](./bio.md).
+For more details, please visit my [Bio page](./bio.md).
 
 ---
 
-## Community Contribution
+## Community Contributions
 
-- **Organizer of KMU Developer Group**
-  - Organizer of [KMU Developer Group Save](https://github.com/kmu-save), online study group for development at [Keimyung University](https://www.kmu.ac.kr), Jan. 2025 - Present.
-  - Organizer of the DUTO, computer science & engineering academic community in [Keimyung University](https://www.kmu.ac.kr), Sep. 2022 - Dec. 2024.
-- **Maintainer of Docker Korea Translation Project**
-  - Maintainer of [Docker Korea](https://github.com/docker-ko/docker-ko.github.io), translating Docker official documentation into Korean to support local developers, Jan. 2025 - Present.
-- **Contributor for libp2p**
-  - Contributor to the [libp2p project](https://github.com/libp2p).
+* **Organizer of KMU Developer Group Save**
+
+  * Organizer of [KMU Developer Group Save](https://github.com/kmu-save), an online development study group at [Keimyung University](https://www.kmu.ac.kr), Jan. 2025 – Present.
+  * Organizer of **DUTO**, a computer science and engineering academic community at [Keimyung University](https://www.kmu.ac.kr), Sep. 2022 – Dec. 2024.
+
+* **Maintainer of the Docker Korea Translation Project**
+
+  * Maintainer of [Docker Korea](https://github.com/docker-ko/docker-ko.github.io), a project translating the official Docker documentation into Korean to support local developers, Jan. 2025 – Present.
+
+* **Contributor to libp2p**
+
+  * Contributor to the [libp2p project](https://github.com/libp2p).
 
 ---
 
-## Tech Stacks
+## Tech Stack
 
-### 1) Programming Languages
+### Programming Languages
+
 C / C++, **C# / .NET**, **Go**, Rust, **Python**, Java, JavaScript / Node.js
-- **C#**: MS Office SDK, Google API, OpenSSL, WinForm, WPF, MAUI
-- **Go**: libp2p, Docker API, Crypto Libraries
-- **Python**: Statistical Analysis and Machine Learning Tools(NumPy, SciPy, PyPlot, NetworkX...)
 
-### 2) System Software
+* **C# / .NET**: Microsoft Office SDK, Google API, OpenSSL, WinForms, WPF, MAUI
+* **Go**: libp2p, Docker API, cryptographic libraries
+* **Python**: statistical analysis, machine learning, data visualization, and graph analysis
+
+  * NumPy, SciPy, Matplotlib, NetworkX
+
+### System Software
+
 **Git**, **Docker / Docker Swarm**, MySQL
 
-### 3) Infrastructure & Systems
-**Computing Infrastructure Design**, **Linux Server Administration**, RAID/NAS Storage Management
+### Infrastructure & Systems
 
-### 4) Networking & Monitoring
-**Linux Networking**, Network Diagnostics, Wireshark, Prometheus, Grafana
+**Computing infrastructure design**, **Linux server administration**, RAID/NAS storage management
 
-### 5) Documentation
+### Networking & Monitoring
+
+**Linux networking**, network diagnostics, Wireshark, Prometheus, Grafana
+
+### Documentation
+
 Markdown, LaTeX, HTML / CSS
-
