@@ -22,7 +22,7 @@ For more details, please visit my [Bio page](./bio.md).
   * Organizer of **DUTO**, a computer science and engineering academic community at [Keimyung University](https://www.kmu.ac.kr), Sep. 2022 - Dec. 2024.
 
 * **Maintainer of the Docker Korea Translation Project**
-  * Maintainer of [Docker Korea](https://github.com/docker-ko/docker-ko.github.io), a project translating the official Docker documentation into Korean to support local developers, Jan. 2025 – Present.
+  * Maintainer of [Docker Korea](https://github.com/docker-ko/docker-ko.github.io), a project translating the official Docker documentation into Korean to support local developers, Jan. 2025 - Present.
 
 * **Contributor to libp2p**
   * Contributor to the [libp2p project](https://github.com/libp2p).
