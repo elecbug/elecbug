@@ -14,7 +14,7 @@ My interests include GossipSub/libp2p analysis, network graph metrics, container
 
 I have been conducting research in the *[Computer Network Lab](https://comnet.kmu.ac.kr)* at *[Keimyung University](https://www.kmu.ac.kr)* since Apr. 2023.
 
-- **M.S. Student**, Dept. Computer Engineering, *[Keimyung University](https://www.kmu.ac.kr)*, Korea, Mar. 2025 - Present.
+- **M.S. Candidate**, Dept. Computer Engineering, *[Keimyung University](https://www.kmu.ac.kr)*, Korea, Mar. 2025 - Present.
 - **B.S.**, Dept. Computer Engineering, *[Keimyung University](https://www.kmu.ac.kr)*, Korea, Mar. 2021 - Feb. 2025.
 
 ## Publication
