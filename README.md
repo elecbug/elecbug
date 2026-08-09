@@ -20,10 +20,8 @@ For more details, please visit my [Bio page](./doc/bio.md).
 * **Organizer of KMU Developer Group Save**
   * Organizer of [KMU Developer Group Save](https://github.com/kmu-save), an online development study group at [Keimyung University](https://www.kmu.ac.kr), Dec. 2023 - Present.
   * Organizer of **DUTO**, a computer science and engineering academic community at [Keimyung University](https://www.kmu.ac.kr), Sep. 2022 - Dec. 2023.
-
 * **Maintainer of the Docker Korea Translation Project**
   * Maintainer of [Docker Korea](https://github.com/docker-ko/docker-ko.github.io), a project translating the official Docker documentation into Korean to support local developers, Jan. 2025 - Present.
-
 * **Open-source Contributor**
   * Contributor to the [libp2p](https://github.com/libp2p), [Actix Web](https://github.com/actix), and [OpenDataLoader](https://github.com/opendataloader-project) projects.
 
