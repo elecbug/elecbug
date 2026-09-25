@@ -1,4 +1,4 @@
-# Bio
+# Biography
 
 I am a graduate student and engineer working on P2P networks, blockchain systems, and large-scale distributed experimentation.
 My interests include GossipSub/libp2p analysis, network graph metrics, container-based testbed design and research.
@@ -23,7 +23,7 @@ I have been conducting research in the *[Computer Network Lab](https://comnet.km
 
 1. **S. Lee**, M. Essaid, and H. Ju, "Broadcast Mechanisms in Peer-to-Peer Overlay Networks: A Survey and Taxonomy," in *IEEE Access*, vol. 14, pp. 135286-135316, Sep. 2026, [doi: 10.1109/ACCESS.2026.3729237](https://doi.org/10.1109/ACCESS.2026.3729237).
 2. **S. Lee**, J. Lee, S. Kim, H. Kim, and H. Ju, "A Node Triple-Based Structural Analysis of Duplicate Message Reception in P2P Broadcast Networks," *2026 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)*, Brisbane, Australia, Jun. 2026, [doi: 10.1109/ICBC67748.2026.11575499](https://doi.org/10.1109/ICBC67748.2026.11575499).
-3. **S. Lee**, and H. Ju, "HopWave: A Hop-Based Broadcast Protocol with Periodic Propagation Reinforcement," *2026 26th Asia-Pacific Network Operations and Management Symposium (APNOMS)*, Kumamoto, Japan, Sep. 2026, [To Be Published](.).
+3. **S. Lee**, and H. Ju, "HopWave: A Hop-Based Broadcast Protocol with Periodic Propagation Reinforcement," *2026 26th Asia-Pacific Network Operations and Management Symposium (APNOMS)*, Kumamoto, Japan, Sep. 2026, [To Be Published](./bio.md).
 
 *More of my work can be found on my [Google Scholar](https://scholar.google.com/citations?user=Jh6qFvoAAAAJ) and [ORCID](https://orcid.org/0009-0002-5796-6474) profiles.*
 

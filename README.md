@@ -11,7 +11,7 @@
 
 ## Bio
 
-For more details, please visit my [Bio page](./doc/bio.md).
+For more details, please visit my [Bio page](./bio.md).
 
 ---
 
@@ -47,7 +47,7 @@ C, C++, **C# with .NET**, **Go**, Rust, **Python**, Java, JavaScript with Node.j
 
 ### Networking & Monitoring
 
-**Linux networking**, network diagnostics, Wireshark, Prometheus, Grafana
+**Linux networking**, Network diagnostics, Wireshark, Prometheus, Grafana
 
 ### Documentation
 
